@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jon</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<div id="user-content-toc" align="center">
+  <ul>
+  <summary><h1 align="center">Hi 👋, I'm Jon</h1></summary>
+  <summary><h3 align="center">A passionate frontend developer</h3></summary>
+  </ul>
+</div>
 
 <h2 align="left">About me</h2>
 
