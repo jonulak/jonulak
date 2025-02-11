@@ -1,8 +1,5 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Jon and I'm a front end developer from New Jersey</p>
+<h1 align="center">Hi 👋, I'm Jon</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
 ###
 
