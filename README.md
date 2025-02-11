@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jon</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-###
-
 <h2 align="left">About me</h2>
 
 ###
